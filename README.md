@@ -262,5 +262,5 @@ Con retry automático de 2 intentos con 5 minutos de espera entre cada uno.
 
 ## 👤 Autor
 
-**Tu Nombre**
+**Jorge Intriago - Data Engineer**
 [LinkedIn](https://www.linkedin.com/in/jorge-intriago-data/) · [GitHub](https://github.com/jodainlo/)
