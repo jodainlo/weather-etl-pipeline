@@ -1,0 +1,7 @@
+config/gcp_credentials.json
+.env
+logs/
+__pycache__/
+*.pyc
+*.egg-info/
+.airflow/
