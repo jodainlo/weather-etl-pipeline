@@ -4,7 +4,7 @@ Pipeline ETL cloud-native completamente automatizado que extrae datos climático
 
 ---
 
-![Arquitectura del Pipeline](images\weather_architecture.png)
+![Arquitectura del Pipeline](images/weather_architecture.png)
 
 ---
 
